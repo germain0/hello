@@ -1,1 +1,5 @@
-<project default="build" name="HelloWorld" basedir=".">  <target name="build">    <echo message="My hello world" />  </target></project>
+<project default="build" name="HelloWorld" basedir=".">
+  <target name="build">
+  <echo message="My hello world" />
+</target>
+</project>
